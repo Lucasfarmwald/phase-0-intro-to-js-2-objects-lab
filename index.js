@@ -1,5 +1,3 @@
-function updateEmployeeWithKeyAndValue (key,value){
-  function employee(){
-      
-  }
+function updateEmployeeWithKeyAndValue (employee,key,value){
+    employee ={}
 }
