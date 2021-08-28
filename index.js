@@ -1,3 +1,4 @@
+const employee = {name:"",streetAdress:""}
 function updateEmployeeWithKeyAndValue(){
    employee.name = 'sam'
    employee.streetAdress = '11 broadway'
